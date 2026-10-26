@@ -2,7 +2,7 @@
   "track_id": "qwen2vl_aadhaar_hybrid_20261026",
   "title": "Rectify & Integrate Qwen2-VL-2B Drive Model for Hybrid Aadhaar Extraction",
   "type": "feature",
-  "status": "in_progress",
+  "status": "completed",
   "created_at": "2026-10-26T10:34:00+05:30",
   "updated_at": "2026-10-26T10:34:00+05:30"
 }
